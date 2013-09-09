@@ -3,10 +3,10 @@
   "version": "0.9.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gocardless/dialog.git"
+    "url": "git://github.com/gocardless/dialog.js.git"
   },
   "bugs": {
-    "url": "http://github.com/gocardless/dialog/issues"
+    "url": "http://github.com/gocardless/dialog.js/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
