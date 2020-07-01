@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "matchdep": "~0.1.2",
+    "matchdep": "~2.0.0",
     "grunt-contrib-jshint": "~0.6.4",
     "grunt-karma": "~0.7.1",
     "karma": "~0.10.2",
