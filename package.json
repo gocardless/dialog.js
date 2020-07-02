@@ -22,7 +22,7 @@
     "karma-opera-launcher": "~0.1.0",
     "karma-safari-launcher": "~0.1.1",
     "karma-growl-reporter": "~0.1.1",
-    "karma-junit-reporter": "~0.1.0"
+    "karma-junit-reporter": "~2.0.1"
   },
   "scripts": {
     "test": "grunt citest"
